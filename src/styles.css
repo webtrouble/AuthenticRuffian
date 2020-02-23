@@ -1,1 +1,39 @@
 /* You can add global styles to this file, and also import other style files */
+
+body {
+    background-color: dimgrey;
+}
+
+#logo {
+    border-radius: 50%;
+    margin-top: 1%;
+}
+
+.carou {
+    margin-top: 1%;
+    margin-bottom: 1%;
+}
+
+.footer {
+    position: relative;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: black;
+    color: dimgrey;
+    text-align: center;
+    margin-top: 1%;
+    padding: 2%;
+}
+
+.social {
+    color: dimgrey;
+}
+
+.social i {
+    margin-left: 1%;
+}
+
+.footer .menu {
+    color: dimgrey;
+}
