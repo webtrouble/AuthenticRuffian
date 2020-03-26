@@ -18,7 +18,6 @@ body {
     position: relative;
     left: 0;
     bottom: 0;
-    width: 100%;
     background-color: black;
     color: dimgrey;
     text-align: center;
@@ -36,4 +35,12 @@ body {
 
 .footer .menu {
     color: dimgrey;
+}
+
+.m-top {
+    margin-top: 5px;
+}
+
+.m {
+    margin: 1% 0%;
 }
